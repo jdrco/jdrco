@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdrco
-- 👀 I’m interested in web game development
+- 👀 I’m interested in software development
 - 🌱 I’m currently practicing Javascript, Python, and C++ programming
 - 📫 How to reach me - Linkedin: Jared Drueco.
 
