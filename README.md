@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdrco
-- 👀 I’m interested in software development
-- 🌱 I’m currently practicing Javascript, Python, and C++ programming
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently practicing Python and Javascript, with efficient knowledge in C programming.
 - 📫 How to reach me - Linkedin: Jared Drueco.
 
 <!---
