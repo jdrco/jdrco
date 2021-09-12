@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdrco
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently practicing Python and Javascript, with profiecient knowledge in C programming.
+- 🌱 I’m currently learning React/React Native, with proficient knowledge in C, Python, and Javascript
 - 📫 How to reach me - Linkedin: Jared Drueco.
 
 <!---
