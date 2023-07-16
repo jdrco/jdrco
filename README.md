@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jared!
-- 👀 I’m interested in building modern products
+- 👀 I’m interested in building modern applications
 - 🌱 I’m currently learning how to build scalable apps in Next.js
 - 📫 How to reach me - Linkedin: Jared Drueco, Twitter: @jaarebeaar
 
