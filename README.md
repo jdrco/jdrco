@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jared!
-- 👀 I’m interested in building modern web and mobile applications
-- 🌱 I’m currently learning how to develop iOS apps using SwiftUI
-- 📫 How to reach me - Linkedin: Jared Drueco, Twitter: @jaarebeaar
+- 👀 Interested in building cool-looking applications and like to delve into low-level programming
+- 🌱 I’m currently learning Rust 🦀
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/jareddrueco/) or check out my [portfolio](https://www.jareddrueco.com/)
